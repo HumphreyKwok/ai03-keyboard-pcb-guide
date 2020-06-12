@@ -1,7 +1,7 @@
 # A Type-C Version of ai03's Keyboard PCB Guide
 
 Based on ai03's keyboard PCB guide and other few open sourced keyboard pcbs. </br>
-I made upgrade version with a usb type-c connector.
+I made an upgrade version with a usb type-c connector.
 
 ### Directory Lists
 * ai03-pad-original </br>
