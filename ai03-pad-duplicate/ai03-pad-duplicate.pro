@@ -1,4 +1,4 @@
-update=12/06/2020 15:03:03
+update=12/06/2020 18:03:13
 version=1
 last_client=kicad
 [general]
@@ -36,3 +36,29 @@ LibDir=
 version=1
 [ModEditFrame]
 version=1
+[schematic_editor]
+version=1
+PageLayoutDescrFile=
+PlotDirectoryName=
+NetFmtName=
+SpiceAjustPassiveValues=0
+SubpartIdSeparator=0
+SubpartFirstId=65
+LabSize=50
+TextOffsetRatio=0.3
+LineThickness=6
+BusThickness=12
+WireThickness=6
+PinSymbolSize=25
+JunctionSize=40
+FieldNameTemplates=(templatefields)
+ERC_TestSimilarLabels=1
+ERC_CheckUniqueGlobalLabels=1
+ERC_CheckBusDriverConflicts=1
+ERC_CheckBusEntryConflicts=1
+ERC_CheckBusToBusConflicts=1
+ERC_CheckBusToNetConflicts=1
+[SchematicFrame]
+version=1
+[sheetnames]
+1=eb9e2913-48a4-4801-b7af-a50c72305fef:
