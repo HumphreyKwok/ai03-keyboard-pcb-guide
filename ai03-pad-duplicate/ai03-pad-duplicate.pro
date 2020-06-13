@@ -1,4 +1,4 @@
-update=12/06/2020 18:03:13
+update=13/06/2020 17:26:03
 version=1
 last_client=kicad
 [general]
@@ -61,4 +61,4 @@ ERC_CheckBusToNetConflicts=1
 [SchematicFrame]
 version=1
 [sheetnames]
-1=eb9e2913-48a4-4801-b7af-a50c72305fef:
+1=b616582b-01e8-4d97-a083-7ef1bc49db6d:
