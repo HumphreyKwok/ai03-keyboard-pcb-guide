@@ -40818,15 +40818,15 @@ LED-6028
 2
 random-keyboard-parts
 LED_D3.0mm-NoSilk
-LED, diameter 3.0mm, 2 pins
-LED diameter 3.0mm 2 pins
+LED,{space}diameter{space}3.0mm,{space}2{space}pins
+LED{space}diameter{space}3.0mm{space}2{space}pins
 0
 2
 2
 random-keyboard-parts
 LED_D3.0mm-Pretty
-LED, diameter 3.0mm, 2 pins
-LED diameter 3.0mm 2 pins
+LED,{space}diameter{space}3.0mm,{space}2{space}pins
+LED{space}diameter{space}3.0mm{space}2{space}pins
 0
 2
 2
