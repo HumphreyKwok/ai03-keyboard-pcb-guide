@@ -1,0 +1,5 @@
+(fp_lib_table
+  (lib (name "Type-C-library")(type "KiCad")(uri "${KIPRJMOD}/Type-C-library")(options "")(descr ""))
+  (lib (name "MX_Only")(type "KiCad")(uri "D:/Keyboard Design/ai03-keyboard-pcb-guide/ai03-pad-original/MX_Alps_Hybrid/MX_Only.pretty")(options "")(descr ""))
+  (lib (name "Schematic Library")(type "KiCad")(uri "D:/Keyboard Design/ai03-keyboard-pcb-guide/ai03-pad-original/random-keyboard-parts.pretty/Schematic Library")(options "")(descr ""))
+)
